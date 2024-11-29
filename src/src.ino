@@ -40,9 +40,9 @@ uint8_t prev_unlockHistory[NUM_HISTORY] = {};
 
 // Password Variable
 #define MAX_PASSWORD 17
-char masterPassword[MAX_PASSWORD] = "14122004";
+char masterPassword[MAX_PASSWORD] = "09876";
 char storedPassword[MAX_PASSWORD] = "";
-char testPassword[MAX_PASSWORD] = "12345678";
+char testPassword[MAX_PASSWORD] = "09876";
 char typePassword[MAX_PASSWORD] = "";
 const char blank[MAX_PASSWORD] = "";
 static uint8_t typeIndex = 0;
